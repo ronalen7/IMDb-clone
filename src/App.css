@@ -1,0 +1,28 @@
+/* .App {
+  text-align: center;
+} */
+
+body {
+  background-color: black;
+}
+
+#search-box {
+  width: 40vw;
+}
+
+.top-pick-box {
+  /* height: 25vw; */
+  background-color: rgb(65, 65, 65);
+  height: 355px;
+  width: 200px;
+  /* align-items: center; */
+}
+
+/* .office-box {
+  border-right: 1px solid white;
+} */
+
+/* .top-pick-box img {
+  height: 100%;
+  width: 100%;
+} */
